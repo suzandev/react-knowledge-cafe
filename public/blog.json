@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "coverImg": "https://example.com/image1.jpg",
+    "title": "Lorem Ipsum: A Brief Introduction",
+    "author": "John Doe",
+    "authorImg": "https://example.com/author1.jpg",
+    "postedDate": "2023-09-12",
+    "readingTime": 5,
+    "hashtags": ["LoremIpsum", "Introduction", "Lorem"]
+  },
+  {
+    "id": 2,
+    "coverImg": "https://example.com/image2.jpg",
+    "title": "The Art of Web Development",
+    "author": "Jane Smith",
+    "authorImg": "https://example.com/author2.jpg",
+    "postedDate": "2023-09-10",
+    "readingTime": 8,
+    "hashtags": ["WebDevelopment", "Coding", "Design"]
+  },
+  {
+    "id": 3,
+    "coverImg": "https://example.com/image3.jpg",
+    "title": "Cooking Delicious Meals at Home",
+    "author": "Alice Johnson",
+    "authorImg": "https://example.com/author3.jpg",
+    "postedDate": "2023-09-08",
+    "readingTime": 12,
+    "hashtags": ["Cooking", "Recipes", "Food"]
+  }
+]
